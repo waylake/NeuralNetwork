@@ -7,10 +7,6 @@
 
 1. Numpy를 사용하여 신경망의 기본 개념을 이해합니다.
  
-2. `numba`를 사용하여 JIT 컴파일을 적용하여 성능을 최적화합니다.
- 
-3. `tqdm`을 사용하여 학습 진행 상황을 시각적으로 표시합니다.
-
 ## 수학적 배경 
 
 ### 활성화 함수 
@@ -96,7 +92,7 @@ $$
 
 
 ```bash
-pip install numba tqdm numpy
+pip install  numpy
 ```
 
 ```bash
